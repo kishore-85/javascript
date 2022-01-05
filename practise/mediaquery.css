@@ -1,0 +1,36 @@
+body{
+    width: 800px;
+    height: 800px;
+    background-color:aqua;
+    margin:  0 auto;
+}
+html{
+    background-color: brown;
+}
+.con1{
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid red;
+    /* padding: 15px 3px; */
+    margin: 10px;
+    background-color: cadetblue;
+}
+
+
+
+@media only screen and (max-width:425px) {
+    
+    .con1{
+        width:100%;
+        background-color:blue;
+    }
+}
+
+@media only screen and (max-width:768px) and (min-width:426px) {
+    
+    .con1{
+        width:43%;
+        background-color:yellow;
+    }
+}

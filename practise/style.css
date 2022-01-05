@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: lightgreen;
+}
+.generalfontfamily{
+    font-family: 'Times New Roman', Times, serif;
+}
+html{
+background-color: lime;
+}
+body{
+    width: 800px 800px;
+    height: 800px;
+    /* background-color: */
+    /* background-image: url('k.jpg'); */
+    /* background-repeat: no-repeat; */
+    /*  */
+}
+.heading2{
+    text-align: left;
+}
+
+.para{
+    
+    font-size: 15px;
+    
+}
+
+.left{
+    text-align: left;
+    font-size: 20px;
+}
+
+#one{
+    color: darkgreen;
+}
+
+.two{
+    color: red;
+    text-align: center;
+}
+.three{
+    color:brown;
+    text-align: right;
+}

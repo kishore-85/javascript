@@ -1,0 +1,32 @@
+.ver ul li{
+
+    list-style-type: none;
+    padding-top: 5px;
+
+
+}
+ul li a{
+    text-decoration: none;
+}
+.ver{
+    background-color: aqua;
+    width: 100px;
+    height: 400px;
+}
+
+.hor{
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+    
+}
+.hor ul li{
+    list-style-type: none;
+    padding-left: 20px;
+   
+    padding-top: 10px;
+    
+}
+ hor ul li a{
+     text-decoration: none;
+ }
